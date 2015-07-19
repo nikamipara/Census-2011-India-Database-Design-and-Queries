@@ -1,4 +1,4 @@
-# Census-2011-India-Database-Design-and-Queries
+# Census 2011 India Database
 Project was developed to design a data base for the data which was collected in census 2011 India Database was designed, keeping in mind the type of queries that needs to be answered and the type of the data that needs to be stored.
 
 # References
